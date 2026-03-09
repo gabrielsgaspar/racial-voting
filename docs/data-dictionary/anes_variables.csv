@@ -1,0 +1,3 @@
+dataset,year,variable,label,notes,source_doc
+anes_timeseries,2020,V201200,Party identification,Dummy example row,anes_2020_codebook.pdf
+anes_timeseries,2020,V201231,Ideology self-placement,Dummy example row,anes_2020_questionnaire.pdf
